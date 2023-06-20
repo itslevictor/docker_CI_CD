@@ -27,5 +27,3 @@ jobs:
           tags: |
             itslevictor/docker_ci_cd:v1
             itslevictor/docker_ci_cd:latest
-            docker build . -t itslevictor/http-app:latest
-            docker push itslevictor/http-app:latest
