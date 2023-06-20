@@ -25,5 +25,5 @@ jobs:
           dockerfile: Dockerfile
           push: true
           tags: |
-            itslevictor/docker_CI_CD:v1
-            itslevictor/docker_CI_CD:latest
+            itslevictor/docker_ci_cd:v1
+            itslevictor/docker_ci_cd:latest
